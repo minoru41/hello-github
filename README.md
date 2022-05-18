@@ -1,3 +1,3 @@
-# hello-github
+hello navi.
+welcome to wired.
 
-serial experiments lain
